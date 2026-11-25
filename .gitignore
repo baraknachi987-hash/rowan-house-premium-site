@@ -1,0 +1,12 @@
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+supabase/.env
+supabase/.env.*
+!supabase/.env.example
+supabase/functions/.env
+supabase/.temp/
+node_modules/
+.DS_Store
+Thumbs.db
